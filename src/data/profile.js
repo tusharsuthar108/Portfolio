@@ -9,7 +9,7 @@ export const bio = {
   name: "Tushar Suthar",
   github: "https://github.com/tusharsuthar108",
   resume:
-    "https://drive.google.com/file/d/1Bf1D_Vkg0-1Megrgc8GcN7kFxEgv2WZk/view?usp=sharing",
+    "https://drive.google.com/file/d/1AYvYQItcWkdJCcDG-i5Tszzz0rpRb4Hj/view?usp=sharing",
   roles: ["Programer", "Full Stack Developer", "Data Enggineer"],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
